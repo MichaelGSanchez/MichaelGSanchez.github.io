@@ -1,8 +1,8 @@
 # Michael G Sanchez, Java Developer
 
-##Links
+## Links
 * [Linkedin](https://www.linkedin.com/in/michaelgregorysanchez/)
-* [Github] (https://www.github.com/michaelgsanchez)
+* [Github](https://github.com/michaelgsanchez)
 
 
 
