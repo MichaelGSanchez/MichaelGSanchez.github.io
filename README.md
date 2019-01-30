@@ -5,7 +5,7 @@
 * [Github](https://github.com/michaelgsanchez)
 * [Strengths Flow Chart](https://www.draw.io/?lightbox=1&highlight=0000FF&edit=_blank&layers=1&nav=1#G1QK5Dz2OpP9UWXIgYIrNG3LzYWXuNLdVr)
 * [Week 1 Reflection](https://docs.google.com/document/d/1IXQBUGXlFVFZx00HsOitkYYiDqj5zALUGs2yI932UG8/edit?usp=sharing)
-* [TEST](https://drive.google.com/file/d/1pWOVhxNDr1HCKBQX63uUBIxsAvlbmT2L/view?usp=sharing)
+
 
 ## Passion Project
 
