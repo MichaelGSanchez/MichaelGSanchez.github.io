@@ -28,7 +28,9 @@ an easy transition.  However, is anything that is worthwhile ever easy?
 * Focus on teams success.
 * Seeks feedback to continue growth.
 
-**![My Current Life: The Rebuild Process](https://user-images.githubusercontent.com/44585394/52171631-83c87c80-271d-11e9-8233-242d338658e8.jpg)**
-This picture is meant to show that I am currently rebuilding my career and prospects in life.  The picture below shows that with enough dedication 
+**This picture below meant to show that I am currently rebuilding my career and prospects in life.**  
+![My Life In The Future](https://user-images.githubusercontent.com/44585394/52171696-a909ba80-271e-11e9-94b7-02a96751d969.jpg)
 
-**![My Life In The Future](https://user-images.githubusercontent.com/44585394/52171696-a909ba80-271e-11e9-94b7-02a96751d969.jpg)
+**The picture below shows that with enough dedication I can acheive my goals.**
+
+![Rebuild of My Life](https://user-images.githubusercontent.com/44585394/52171631-83c87c80-271d-11e9-8233-242d338658e8.jpg)**
