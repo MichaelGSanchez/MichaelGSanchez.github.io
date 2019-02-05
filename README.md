@@ -17,6 +17,9 @@ After my last stop, I knew that the career path that I had set myself on was not
 So I created a new project and that has been to create a new career path for myself. It has been not been
 an easy transition.  However, is anything that is worthwhile ever easy? 
 
+![id chart michael sanchez](https://user-images.githubusercontent.com/44585394/52277398-e4200f80-2911-11e9-9d2c-0012c6b44428.png)
+
+
 **Quantitative Values**
 
 * Exceeded projected budget in one year by 19%, 
