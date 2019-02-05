@@ -3,6 +3,7 @@
 ## Links
 * [Linkedin](https://www.linkedin.com/in/michaelgregorysanchez/)
 * [Github](https://github.com/michaelgsanchez)
+* [Michael G Sanchez Resume](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/2832238/Michael.G.Sanchez.Resume.pdf)
 * [Strengths Flow Chart](https://www.draw.io/?lightbox=1&highlight=0000FF&edit=_blank&layers=1&nav=1#G1QK5Dz2OpP9UWXIgYIrNG3LzYWXuNLdVr)
 * [Week 1 Reflection](https://docs.google.com/document/d/1IXQBUGXlFVFZx00HsOitkYYiDqj5zALUGs2yI932UG8/edit?usp=sharing)
 
