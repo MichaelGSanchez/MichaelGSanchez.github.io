@@ -5,7 +5,7 @@
 * [Github](https://github.com/michaelgsanchez)
 * [Michael G Sanchez Resume](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/2832238/Michael.G.Sanchez.Resume.pdf)
 * [Strengths Flow Chart](https://www.draw.io/?lightbox=1&highlight=0000FF&edit=_blank&layers=1&nav=1#G1QK5Dz2OpP9UWXIgYIrNG3LzYWXuNLdVr)
-* [Week 1 Reflection](https://docs.google.com/document/d/1IXQBUGXlFVFZx00HsOitkYYiDqj5zALUGs2yI932UG8/edit?usp=sharing), [Week 2 Reflection](https://docs.google.com/document/d/1ekO82qfp4CvpVJ2w06ca5QL9meitt8L4ehHsf0onGss/edit?usp=sharing)
+* Bootcamp Reflections: [Week 1](https://docs.google.com/document/d/1IXQBUGXlFVFZx00HsOitkYYiDqj5zALUGs2yI932UG8/edit?usp=sharing), [Week 2](https://docs.google.com/document/d/1ekO82qfp4CvpVJ2w06ca5QL9meitt8L4ehHsf0onGss/edit?usp=sharing)
 
 
 ## Passion Project
@@ -22,7 +22,7 @@ an easy transition.  However, is anything that is worthwhile ever easy?
 
 **Quantitative Values**
 
-* Exceeded projected budget in one year by 19%, 
+* Spent 7 years in hospitality, with growth at every stop. 
 * Arrives 15 minutes early
 * Completed a 2 year degree in 15 months.
 
@@ -36,5 +36,4 @@ an easy transition.  However, is anything that is worthwhile ever easy?
 ![My Life In The Future](https://user-images.githubusercontent.com/44585394/52171696-a909ba80-271e-11e9-94b7-02a96751d969.jpg)
 
 **The picture below shows that with enough dedication I can acheive my goals.**
-
 ![Rebuild of My Life](https://user-images.githubusercontent.com/44585394/52171631-83c87c80-271d-11e9-8233-242d338658e8.jpg)**
