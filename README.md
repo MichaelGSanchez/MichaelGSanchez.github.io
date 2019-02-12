@@ -4,6 +4,7 @@
 * [Linkedin](https://www.linkedin.com/in/michaelgregorysanchez/)
 * [Github](https://github.com/michaelgsanchez)
 * [Michael G Sanchez Resume](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/2832238/Michael.G.Sanchez.Resume.pdf)
+* [Cooking Up Opportunities](https://user-images.githubusercontent.com/44585394/52636918-14742a80-2e8b-11e9-85e6-bf4e95e4480b.png)
 * [Strengths Flow Chart](https://www.draw.io/?lightbox=1&highlight=0000FF&edit=_blank&layers=1&nav=1#G1QK5Dz2OpP9UWXIgYIrNG3LzYWXuNLdVr)
 * Bootcamp Reflections: [Week 1](https://docs.google.com/document/d/1IXQBUGXlFVFZx00HsOitkYYiDqj5zALUGs2yI932UG8/edit?usp=sharing), [Week 2](https://docs.google.com/document/d/1ekO82qfp4CvpVJ2w06ca5QL9meitt8L4ehHsf0onGss/edit?usp=sharing)
 
