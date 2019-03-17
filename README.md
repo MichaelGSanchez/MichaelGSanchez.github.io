@@ -3,7 +3,7 @@
 ## Links
 * [Linkedin](https://www.linkedin.com/in/michaelgregorysanchez/)
 * [Github](https://github.com/michaelgsanchez)
-* [Michael G Sanchez Resume](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/2832238/Michael.G.Sanchez.Resume.pdf)
+* [Michael G Sanchez, Resume](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/2975879/Michael.G.Sanchez.Resume.pdf)
 * [Cooking Up Opportunities](https://user-images.githubusercontent.com/44585394/52636918-14742a80-2e8b-11e9-85e6-bf4e95e4480b.png)
 * [ProDev Local Companies Assignment](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/2856080/ProDev.Persusaion.Assisgnment.pdf)
 * [Forbidden Island Reflection](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/2862086/Forbidden.Island.Reflection.pdf)
