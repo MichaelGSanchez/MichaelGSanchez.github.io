@@ -1,5 +1,9 @@
 # Michael G Sanchez, Java Developer
 
+
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/44585394/56437234-d97fe000-629b-11e9-9de2-26b88f6341c8.jpg">
+
+
 ## Links
 * [Linkedin](https://www.linkedin.com/in/michaelgregorysanchez/)
 * [Github](https://github.com/michaelgsanchez)
