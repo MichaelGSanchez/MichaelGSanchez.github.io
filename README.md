@@ -7,11 +7,13 @@
 ## Links
 * [Linkedin](https://www.linkedin.com/in/michaelgregorysanchez/)
 * [Github](https://github.com/michaelgsanchez)
-* [Michael G Sanchez, Resume](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/2979703/Michael.G.Sanchez.Resume.pdf)
+* [Michael G Sanchez, Resume](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/3598497/Michael.G.Sanchez.Resume.pdf)
 * [Salesforce Trailhead](https://trailhead.salesforce.com/me/michaelgsanchez)
 
 ## Brief Overview
 
 Greetings, my name is Michael Sanchez. I am an analyst and java developer.  I am looking to develop applications, software, and webpages that are client focuested while also being intuitive for the user. I want to utilize my skills learned in hospitality, to make an impact in the tech community. 
+
+
 
 
