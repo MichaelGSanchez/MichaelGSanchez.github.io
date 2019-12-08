@@ -1,4 +1,4 @@
-# Michael G Sanchez, Analyst & Developer
+# Michael G Sanchez, Salesforce Certifed Administrator and Java Developer
 
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/44585394/56437234-d97fe000-629b-11e9-9de2-26b88f6341c8.jpg">
@@ -12,8 +12,7 @@
 
 ## Brief Overview
 
-Greetings, my name is Michael Sanchez. I am an analyst and java developer.  I am looking to develop applications, software, and webpages that are client focuested while also being intuitive for the user. I want to utilize my skills learned in hospitality, to make an impact in the tech community. 
-
-
+Greetings, my name is Michael Sanchez. I have a passion for Salesforce and do have my Administrator Certificate (201) and am looking to continue obtain more certificates. I also completed a Java & Android development bootcamp and have a good foundation for growth their as well. Hoping to connect with you soon, cheers!
+ 
 
 
