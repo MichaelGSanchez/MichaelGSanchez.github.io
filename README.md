@@ -15,7 +15,9 @@
 
 Greetings, my name is Michael Sanchez.
 
-I have a passion for Salesforce and am a Salesforce Certified Administrator.  I am looking to continue obtain more certificates and contiune growing and in my tech career. Furthermore, I completed a Java & Android development bootcamp and have a good foundation and understanding in Java programing. Hoping to connect with you soon, cheers!
+I have a passion for Salesforce and am a Salesforce Certified Administrator.  I am looking to continue obtain more certificates and contiune growing and in my tech career. Furthermore, I completed a Java & Android development bootcamp and have a good foundation and understanding in Java programing.
+
+Hoping to connect with you soon, cheers!
 
 
  
