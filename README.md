@@ -6,7 +6,7 @@
 
 ## Links & PDF's
 * [LinkedIn](https://www.linkedin.com/in/michaelgregorysanchez/)
-* [Resume](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/4074724/Resume.Michael.G.Sanchez.pdf)
+* [Resume](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/8007282/Michael.G.Sanchez.Resume.pdf)
 * [Salesforce Administrator Certification](https://github.com/MichaelGSanchez/MichaelGSanchez.github.io/files/4014527/MichaelGSanchez_Salesforce_Administrator_Certification.1.pdf)
 * [Salesforce Trailhead](https://trailhead.salesforce.com/me/michaelgsanchez)
 
@@ -14,6 +14,7 @@ Hoping to connect with you soon, cheers!
 
 
  
+
 
 
 
