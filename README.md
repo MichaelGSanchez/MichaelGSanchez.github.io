@@ -1,4 +1,4 @@
-# Michael G Sanchez, Salesforce Certifed Administrator
+# Michael G Sanchez, Salesforce Certified Administrator
 
 
 <img align="right" width="150" height="200" src="https://user-images.githubusercontent.com/44585394/56437234-d97fe000-629b-11e9-9de2-26b88f6341c8.jpg">
